@@ -7,4 +7,6 @@ já joguei fortnite profissionalmente e acabei até ganhando U$ 600 em um tornei
 
 pretendo crescer e evoluir com o tempo em que estudo no senai.
 
-alguns trabalhos que fiz 
+alguns dos projetos:
+
+https://www.figma.com/file/BiTyBhpYYlAHRc3AMTtPJK/foodU?node-id=0%3A1
