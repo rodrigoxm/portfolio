@@ -9,4 +9,4 @@ pretendo crescer e evoluir com o tempo em que estudo no senai.
 
 alguns dos projetos:
 
-https://www.figma.com/file/BiTyBhpYYlAHRc3AMTtPJK/foodU?node-id=0%3A1
+![image](https://user-images.githubusercontent.com/102531891/165102747-17f676be-e744-4cac-8de0-d9c6a4d252ef.png)
