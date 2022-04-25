@@ -10,3 +10,6 @@ pretendo crescer e evoluir com o tempo em que estudo no senai.
 alguns dos projetos:
 
 ![image](https://user-images.githubusercontent.com/102531891/165102747-17f676be-e744-4cac-8de0-d9c6a4d252ef.png)
+
+![image](https://user-images.githubusercontent.com/102531891/165103819-aee7c8da-8804-4c96-addf-83694cc3cb18.png)
+
