@@ -9,5 +9,5 @@ pretendo crescer e evoluir com o tempo em que estudo no senai.
 
 ## justificativas das atividades escolhidas
 [Design Rede Social.jpeg](https://github.com/rodrigoxm/portfolio/blob/main/FundamentosDesign/Design%20Rede%20Social.jpeg): Coloquei essa atividade pois eu aprendi bastante fazendo-a.
-<p> [Design Site.jpeg](https://github.com/rodrigoxm/portfolio/blob/main/FundamentosDesign/Design%20Site.jpeg): Essa atividade foi uma das que mais me dediquei até hoje.
-<p> [NumerosPrimos.java](https://github.com/rodrigoxm/portfolio/blob/main/L%C3%B3gicaComputacional/NumerosPrimos.java): Essa atividade foi um marco, pois, aprendi a mexer em java com ela.
+<p>[Design Site.jpeg](https://github.com/rodrigoxm/portfolio/blob/main/FundamentosDesign/Design%20Site.jpeg): Essa atividade foi uma das que mais me dediquei até hoje.
+<p>[NumerosPrimos.java](https://github.com/rodrigoxm/portfolio/blob/main/L%C3%B3gicaComputacional/NumerosPrimos.java): Essa atividade foi um marco, pois, aprendi a mexer em java com ela.
