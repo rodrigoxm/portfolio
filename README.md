@@ -1,5 +1,5 @@
 
-## portfolio de Rodrigo Xavier 
+## Portfólio de Rodrigo Xavier 
 
 Tenho 16 anos, nasci em São Paulo e moro em Florianópolis faz 2 anos. Sou um jovem ambicioso que busca sempre melhorar e adquirir novos ares.
 Gosto muito de ouvir música, fazer música e desenhar.
